@@ -3,8 +3,8 @@ import Nav from './Nav'
 
 const App = () => {
   return (
-    <div>
-      <span></span>
+    <div className=''>
+      <Nav/>
     </div>
   )
 }

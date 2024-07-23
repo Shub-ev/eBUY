@@ -2,7 +2,7 @@ import React from 'react'
 
 const Nav = () => {
   return (
-    <div className='text-2xl'>
+    <div className='text-red-500 font-bold text-8xl'>
         HIII
     </div>
   )
