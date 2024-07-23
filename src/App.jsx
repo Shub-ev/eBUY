@@ -3,7 +3,7 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-      <span></span>
+      <span className=''>Text</span>
     </div>
   )
 }
