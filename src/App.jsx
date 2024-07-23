@@ -1,9 +1,10 @@
 import React from 'react'
+import Nav from './Nav'
 
 const App = () => {
   return (
     <div>
-      <span className=''>Text</span>
+      <span></span>
     </div>
   )
 }
